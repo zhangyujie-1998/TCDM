@@ -1,2 +1,2 @@
-# TCDM: Transformational Complexity Based Distortion Metric for Perceptual Point Cloud Quality Assessment
-Our code will be available soon.
+# TCDM
+A full-reference point cloud quality assessment method from the perspective of the transformational complexity.
