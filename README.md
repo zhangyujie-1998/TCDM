@@ -11,6 +11,11 @@ The goal of objective point cloud quality assessment (PCQA) research is to devel
 
 ## Results
 - Dataset
+1. SJTU-PCQA
+2. WPC
+3. M-PCCD
+4. ICIP2020
+5. IRPC
 
 - Quantitative comparison
 ![image text](https://github.com/zyj1318053/TCDM/blob/main/fig/table.png)
