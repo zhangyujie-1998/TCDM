@@ -19,8 +19,8 @@ It is expected to output
 
 ## Results
 - Dataset
-1. SJTU-PCQA
-2. WPC
+1. [SJTU-PCQA](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
+2. [WPC](https://github.com/qdushl/Waterloo-Point-CloudDatabase)
 3. M-PCCD
 4. ICIP2020
 5. IRPC
