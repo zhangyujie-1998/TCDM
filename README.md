@@ -18,12 +18,12 @@ It is expected to output
 ```
 
 ## Results
-- Dataset
+- Datasets
 1. [SJTU-PCQA](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
-2. [WPC](https://github.com/qdushl/Waterloo-Point-CloudDatabase)
-3. M-PCCD
-4. ICIP2020
-5. IRPC
+2. [WPC](https://github.com/qdushl/Waterloo-Point-Cloud-Database)
+3. [M-PCCD](https://www.epfl.ch/labs/mmspg/downloads/quality-assessment-for-point-cloud-compression/)
+4. [ICIP2020](https://emergimg.di.ubi.pt/icip2020PC.html)
+5. [IRPC](https://github.com/AlirezaJav/IRPC-Dataset)
 
 - Quantitative comparison
 ![image text](https://github.com/zyj1318053/TCDM/blob/main/fig/table.png)
