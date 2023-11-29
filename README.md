@@ -30,6 +30,8 @@ It is expected to output
 
 
 - Results reproduction
+The experiment results are related to the sampled seeds used for space segmentation. If you want to reproduce the results in our paper, you can directly utilize the seeds in the " ./generated_seeds/" folder. We provide the corresponding seeds for each reference on the above five databases.
+
 
 ## Citation
 If you find this work is helpful, please cite our paper
