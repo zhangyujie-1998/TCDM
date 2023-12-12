@@ -1,7 +1,7 @@
 # [TCDM: Transformational Complexity Based Distortion Metric for Perceptual Point Cloud Quality Assessment (TVCG2023)](https://arxiv.org/abs/2210.04671)
 by Yujie Zhang, Qi Yang, Yifei Zhou, Xiaozhong Xu, Le Yang, Yiling Xu
 
-This respository is about a full-reference point cloud quality metric based on the transformational complexity. The basic motivation is that the quality of one distorted point cloud can be quantified as the complexity or the amount of effort of transforming it into its corresponding reference.
+This respository is about a full-reference point cloud quality metric based on the transformational complexity. The key idea is that the quality of one distorted point cloud can be quantified as the complexity or the amount of effort of transforming it into its corresponding reference.
 
 ## Introduction
 ![image text](https://github.com/zyj1318053/TCDM/blob/main/fig/Framework.png)
