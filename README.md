@@ -35,7 +35,7 @@ The experiment results are related to the sampled seeds used for space segmentat
 
 
 ## Citation
-If you find this work is helpful, please cite our paper
+If you find this work is helpful, please consider citing:
 ```
 @article{zhang2023tcdm,
   title={TCDM: Transformational Complexity Based Distortion Metric for Perceptual Point Cloud Quality Assessment},
